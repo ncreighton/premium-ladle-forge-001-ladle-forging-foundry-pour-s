@@ -1,0 +1,2 @@
+# premium-ladle-forge-001-ladle-forging-foundry-pour-s
+Tired of losing track of your ladle forging steps, crucible temps, and pour schedules across scattered notes? This Notion template turns your workshop chaos into a repeatable, organized workflow.  The Ladle Forging &amp; Foundry Pour Spoon Craft Workshop template gives you a structured system to plan, execute, and refine every pour—from billet prep to
